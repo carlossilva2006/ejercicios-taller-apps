@@ -1,0 +1,103 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container-principal
+{
+ width: 1200px;
+ height:650px ;
+ margin:auto;
+ border-style: initial;
+ margin-top: 50px;
+}
+
+.container-head
+{
+    width: 1200px;
+    height: 70px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 56px;
+    border-color:black;
+    background-color: black;
+    color:white;
+    box-sizing: border-box;
+    border-style:solid;
+    text-align: center; 
+}
+
+.aside
+{
+width: 350px;
+height:574px;
+border-style:none;
+background-color: rgb(29, 192, 233);
+float: left;
+text-align: center;
+}
+
+.home
+{
+ width: auto;
+ height: 50px;
+ font-size: 30px;
+ border-bottom-style: inset;
+ border-bottom-color: blue;
+ text-align: left;
+ padding-left: 100px;
+ margin-top: 18px;
+ text-decoration: none;
+}
+
+.wzp
+{
+ width: auto;
+ height: 50px;
+ font-size: 30px;
+ border-bottom-style: inset;
+ border-bottom-color: blue;
+ text-align: left;
+ padding-left: 100px;
+ margin-top: 18px;
+}
+
+.zpoti
+{
+ width: auto;
+ height: 50px;
+ font-size: 30px;
+ border-bottom-style: inset;
+ border-bottom-color: blue;
+ text-align: left;
+ padding-left: 100px;
+ margin-top: 18px;
+}
+
+.aside li 
+{
+    list-style: none;
+}
+.aside li a:hover
+{
+background-color: blue;
+color:white;
+}
+
+.aside .icono
+{
+    float: left;
+    margin-right: 2px;
+}
+.container-sub
+{
+ width:849px ;
+ height:574px;
+ border-bottom-style:none;
+ border-color:rgb(198, 230, 231);
+ background-color: rgb(235, 222, 253);
+ float: right;
+}
+
+

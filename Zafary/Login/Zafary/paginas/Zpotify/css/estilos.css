@@ -1,0 +1,90 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.principal{
+width: 700px;
+height: 979px;
+margin:auto;
+border-style:solid;
+border-radius: 25px;
+background-color: rgb(216, 243, 252);
+border-color: rgb(165, 204, 255);
+}
+
+.titulo{
+    width: 700px;
+    height: 30px;
+    margin:10px;
+    margin-bottom: 5%;
+    border-style: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    line-height: 56px;
+    color:black;
+}
+
+.contenedor{
+    width: 745px;
+    height: 990px;
+    margin:auto;
+    border-style: white;
+    display: grid;
+    border-radius: 1px;
+    grid-template-columns: 30% 30% 3%;
+}
+.colum1{
+    width: 223px;
+    height: 910px;
+    margin:2px;
+    border-style:white;
+}
+
+.colum2{
+    width: 223px;
+    height: 920px;
+    margin:2px;
+    border-style:white;
+}
+
+.colum3{
+    width: 223px;
+    height: 920px;
+    margin:2px;
+    border-style:white;
+}
+
+.boxarti{
+width: 160px;
+height: 165px;
+margin-bottom: 15px;
+margin-left: auto;
+background: #5AD2AE;
+border: 1px solid #469F85;
+border-radius: 20px;
+}
+
+.artista{
+width: 150px;
+height: 110px;
+border-style: white;
+margin-left: auto;
+margin-top: 15%;
+border-radius: 82%;
+font-size: 15px;
+color: white;
+text-align: center;
+}
+
+ .img{
+ border-radius: 99%;
+ width:130px;
+ height:110px;
+ margin: 5px;
+
+ }
+.p{
+ background-color: white;
+}
